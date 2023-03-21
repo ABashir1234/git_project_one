@@ -11,6 +11,7 @@ ul{
     color:red;
     font-size: 23px;
     background-color:blue;
+    font-weight: bold;
 }
 tbody{
     color:yellow;
