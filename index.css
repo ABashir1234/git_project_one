@@ -1,12 +1,7 @@
 body{
     background-color: blue;
 }
-h3{
 
-}
-ul{
-
-}
 .student{
     color:red;
     font-size: 23px;
@@ -15,4 +10,10 @@ ul{
 }
 tbody{
     color:yellow;
+}
+
+ul{
+    color:'blue';
+    background-color: red;
+    font-size: 34;
 }
